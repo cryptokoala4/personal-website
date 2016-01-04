@@ -539,3 +539,20 @@ iframe {
     width: 1360px;
   }
 }
+
+.skills-tags div {
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #b2f4f7;
+  padding: 5px;
+  margin: 5px;
+}
+
+.learning {
+  background-color: #66cb8c !important  ;
+}
+
+.extras {
+  background-color: #ffafb2 !important;
+}

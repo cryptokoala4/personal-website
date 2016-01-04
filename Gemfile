@@ -10,6 +10,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem "font-awesome-rails"
+gem 'jquery-rails'
+gem 'jquery-migrate-rails'
 
 
 group :development, :test do
